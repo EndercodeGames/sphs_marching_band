@@ -1,0 +1,40 @@
+# navbar {
+     list-style-type: none;
+     margin: 0;
+     padding: 0:
+     background-color: black;
+     width: 200px;
+     }
+     
+    .navitem a {
+    display: block;
+    
+    color: orange;
+     text-decoration: none;
+     padding: 8px 16px
+     }
+     .navitem a:hover {
+     background-color: orange;
+     color: black;
+     }
+     h1 {
+     Text-align: center;
+     color: darkorange;
+     }
+     h2 { 
+     Text-align: center;
+     color: cyan;
+     }
+     img {
+     display: block;
+     margin: auto;
+     width: 40%
+     }
+     body { 
+ background-color:  gainsboro;
+ font-family: 'Mechanikschrift', serif;
+ font-size: 28px;
+ }
+ P {
+ text-align: center;
+ }
